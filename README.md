@@ -1,70 +1,96 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<p align="center">
+  <a href="https://github.com/Thibault-collard/jitter-test">
+    <img src="./client/src/jitter-logo.jpeg" alt="Logo" height="80">
+  </a>
 
-## Available Scripts
+  <h3 align="center"> TEST JITTER </h3>
 
-In the project directory, you can run:
+  <p align="center">
+    Test de candidature au poste de développeur Fullstack chez Jitter, une plateforme en ligne de motion design innovant qui réinvente la manière de concevoir les vidéos
+		<br />
+    <br />
+    <a href="https://test-jitter.herokuapp.com.herokuapp.com/">Voir la Demo</a>
+    ·
+    <a href="https://github.com/Thibault-collard/jitter-test/issues">Reporter un Bug</a>
+    ·
+    <a href="https://github.com/Thibault-collard/jitter-test/issues">Suggérer une amélioration</a>
+  </p>
+</p>
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
+## A propos du projet
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="./client/src/crossquantum-homepage.png" alt="Logo">
+Le but de ce projet est de construire une version web d'un éditeur visuel minimaliste. Dans cet éditeur, l'utilisateur pourra éditer une scène composée de formes rectangulaires aléatoires.
+https://developers.themoviedb.org/3/getting-started/introduction 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Fonctionnalités : 
+- ajouter une forme rectangulaire aléatoire à la scène ;
+- changer les couleurs des rectangles ;
+- jouer une animation où toutes les formes de la scène tournent ensemble ;
+- spécifier la durée de l'animation ;
+- télécharger les données de la scène au format JSON.
+- Uploader des données d'une scène au format JSON
 
-### `npm test`
+### Construit avec
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Javascript ES6
+* React
+* Canva
+* Html/CSS
 
-### `npm run build`
+<!-- GETTING STARTED -->
+## Pour commencer ...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Pour naviguer sur le site internet, pas besoin d'identifiants, cliquez simplement sur ce lien : https://test-jitter.herokuapp.com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pré-requis
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+En plus d'avoir un environnement de programmation adéquat, il convient d'avoir des notions en Javascript, Canva et React pour bien appréhender ce projet
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Cloner le répertoire
+```sh
+git clone https://github.com/Thibault-collard/jitter-test.git
+```
+2. Installer les paquets NPM
+```sh
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- USAGE EXAMPLES -->
+## Compétences utilisés
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Intéragir avec des hooks React
+- Utiliser Canvas dans le cadre de React
+- Créer de animations Canvas
+- Charger et télécharger des fichiers JSON dans React
 
-## Learn More
+<!-- ROADMAP -->
+## Roadmap
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Créer l'emplacement Canva et les boutons d'interactions
+- Au clic sur le bouton "Add rectangle", créer des rectangles 
+- Au clic sur le canva, changer les couleurs des rectangles
+- Au clic sur le bouton "Play", créer une rotation des carrés
+- Rajouter un champ input en secondes pour limiter l'animation
+- Au clic sur le bouton "download .json", downloader les informations de la scène
+- Au clic sur le bouton "upload .json", uploader les informations de la scène
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- LICENSE -->
+## Licence
 
-### Code Splitting
+Ce dossier et l'ensemble du code qu'il contient est accessible gratuitement, sans besoin d'attribution.
+Mais n'oubliez pas que recopier sans comprendre ne fera pas progresser vos compétences.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- CONTACT -->
+## Contact
 
-### Analyzing the Bundle Size
+Pour toutes demandes : thibault.collard@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
