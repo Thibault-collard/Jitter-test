@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/Thibault-collard/jitter-test">
-    <img src="./src/jitter-logo.jpeg" alt="Logo" height="80">
+    <img src="./src/jitter-logo.jpeg" alt="Logo" height="300">
   </a>
 
   <h3 align="center"> TEST JITTER </h3>
 
   <p align="center">
-    Test de candidature au poste de développeur Fullstack chez Jitter, une plateforme en ligne de motion design innovant qui réinvente la manière de concevoir les vidéos
+    Test de candidature au poste de développeur Fullstack chez Jitter, une plateforme en ligne de motion design innovante qui réinvente la manière de concevoir les vidéos
 		<br />
     <br />
     <a href="https://test-jitter.herokuapp.com.herokuapp.com/">Voir la Demo</a>
@@ -22,7 +22,6 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-<img src="./src/jitter-logo.jpeg" alt="Logo">
 Le but de ce projet est de construire une version web d'un éditeur visuel minimaliste. Dans cet éditeur, l'utilisateur pourra éditer une scène composée de formes rectangulaires aléatoires.
 https://developers.themoviedb.org/3/getting-started/introduction 
 
