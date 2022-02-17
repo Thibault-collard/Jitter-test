@@ -11,7 +11,7 @@
     Test de candidature au poste de développeur Fullstack chez Jitter, une plateforme en ligne de motion design innovante qui réinvente la manière de concevoir les vidéos
 		<br />
     <br />
-    <a href="https://test-jitter.herokuapp.com.herokuapp.com/">Voir la Demo</a>
+    <a href="https://test-jitter.herokuapp.com/">Voir la Demo</a>
     ·
     <a href="https://github.com/Thibault-collard/jitter-test/issues">Reporter un Bug</a>
     ·
@@ -23,7 +23,6 @@
 ## A propos du projet
 
 Le but de ce projet est de construire une version web d'un éditeur visuel minimaliste. Dans cet éditeur, l'utilisateur pourra éditer une scène composée de formes rectangulaires aléatoires.
-https://developers.themoviedb.org/3/getting-started/introduction 
 
 Fonctionnalités : 
 - ajouter une forme rectangulaire aléatoire à la scène ;
@@ -43,7 +42,7 @@ Fonctionnalités :
 <!-- GETTING STARTED -->
 ## Pour commencer ...
 
-Pour naviguer sur le site internet, pas besoin d'identifiants, cliquez simplement sur ce lien : https://test-jitter.herokuapp.com
+Pour naviguer sur le site internet, pas besoin d'identifiants, cliquez simplement sur ce lien : https://test-jitter.herokuapp.com/
 
 ### Pré-requis
 
