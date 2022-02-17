@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Thibault-collard/jitter-test">
-    <img src="./client/src/jitter-logo.jpeg" alt="Logo" height="80">
+    <img src=".src/jitter-logo.jpeg" alt="Logo" height="80">
   </a>
 
   <h3 align="center"> TEST JITTER </h3>
@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## A propos du projet
 
-<img src="./client/src/crossquantum-homepage.png" alt="Logo">
+<img src="./src/crossquantum-homepage.png" alt="Logo">
 Le but de ce projet est de construire une version web d'un éditeur visuel minimaliste. Dans cet éditeur, l'utilisateur pourra éditer une scène composée de formes rectangulaires aléatoires.
 https://developers.themoviedb.org/3/getting-started/introduction 
 
